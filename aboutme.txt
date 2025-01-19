@@ -3,3 +3,8 @@ Line2
 Line  3
 Line4
 Line5
+More lines to be added
+So here goes
+With 3 new lines
+This will be for the the commit1 that should b squashed
+Another line to be squashed
